@@ -3,11 +3,11 @@ Pipocoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/pipocoin-project/pipocoin.svg?branch=master)](https://travis-ci.org/pipocoin-project/pipocoin)
 
-https://pipocoin.org
+https://github.com/XaviFortes/PipoCoin
 
 What is Pipocoin?
 ----------------
-
+Forked from LiteCoin
 Pipocoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Pipocoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
